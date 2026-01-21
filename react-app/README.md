@@ -16,7 +16,5 @@ pages/  páginas de la app (Home.jsx, Login.jsx, Dashboard.jsx).
 router/  rutas de la app (AppRouter.jsx, PrivateRoute.jsx).
 services/ funciones para APIs (api.js).
 store/ estado global, contexto de usuario (AuthContext.jsx).
-Archivos sueltos App.jsx (raíz), main.jsx (entrada), *.css (estilos).
-.gitignore archivos que Git ignora.
 package.json dependencias y scripts.
 vite.config.js configuración de Vite.
